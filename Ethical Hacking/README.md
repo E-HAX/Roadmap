@@ -18,18 +18,19 @@
 
 ## Learning Paths
 1. **Networking Essentials**
-   - **Understanding TCP/IP**: Learn TCP/IP fundamentals with the help of [Cisco's TCP/IP Basics](https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html) documentation.
-   - **Subnetting and IP Addressing**: Practice subnetting using [SubnettingPractice.com](https://subnettingpractice.com/).
+   - **Understanding TCP/IP**: Learn TCP/IP fundamentals with the help of ![TCP/IP Basics](URL_TO_IMAGE).
+   - **Subnetting and IP Addressing**: Practice subnetting using ![SubnettingPractice.com](URL_TO_IMAGE).
    - **Routing and Switching**: Cisco's [CCNA Routing and Switching](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) certification covers these topics.
 
 2. **Operating System Fundamentals**
-   - **Linux Fundamentals**: Explore Linux basics with [LinuxCommand.org](http://linuxcommand.org/).
-   - **Windows Operating System**: Refer to [Microsoft's Windows Documentation](https://docs.microsoft.com/en-us/windows/) for Windows OS knowledge.
+   - **Linux Fundamentals**: Explore Linux basics with ![LinuxCommand.org](URL_TO_IMAGE).
+   - **Windows Operating System**: Refer to ![Microsoft's Windows Documentation](URL_TO_IMAGE) for Windows OS knowledge.
 
 3. **Programming and Scripting**
-   - **Python for Ethical Hacking**: Enroll in Udemy's [Python for Ethical Hacking and Penetration Testing](https://www.udemy.com/course/python-for-ethical-hacking-and-penetration-testing/) course.
-   - **Bash Scripting**: Learn Bash scripting on [LinuxConfig.org](https://linuxconfig.org/bash-scripting-tutorial-for-beginners).
+   - **Python for Ethical Hacking**: Enroll in Udemy's ![Python for Ethical Hacking and Penetration Testing](URL_TO_IMAGE) course.
+   - **Bash Scripting**: Learn Bash scripting on ![LinuxConfig.org](URL_TO_IMAGE).
 
 4. **Cybersecurity Foundations**
    - **Introduction to Cybersecurity**: The [Cybersecurity and Infrastructure Security Agency (CISA)](https://www.cisa.gov/cybersecurity) provides valuable resources.
    - **Common Security Vulnerabilities**: Explore common vulnerabilities and exposures (CVE) on the [CVE List](https://cve.mitre.org/).
+
